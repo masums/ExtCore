@@ -1,3 +1,6 @@
 .vs/
 bin/
 obj/
+pack.bat
+push.bat
+*.user

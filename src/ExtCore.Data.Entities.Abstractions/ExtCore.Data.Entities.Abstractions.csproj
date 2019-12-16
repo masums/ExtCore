@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Authors>Dmitry Sikorsky</Authors>
+    <Copyright>Copyright © 2015 Dmitry Sikorsky</Copyright>
+    <Description>The ExtCore.Data extension component. Based on the ExtCore framework.</Description>
+    <VersionPrefix>5.0.0</VersionPrefix>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ExtCore.Data.Entities.Abstractions</AssemblyName>
+    <PackageId>ExtCore.Data.Entities.Abstractions</PackageId>
+    <PackageIconUrl>http://extcore.net/extcore_nuget_icon.png</PackageIconUrl>
+    <PackageProjectUrl>http://extcore.net/</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
